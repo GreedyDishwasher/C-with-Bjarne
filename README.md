@@ -1,2 +1,2 @@
 # C-with-Bjarne
-Learning C++ following the book from Bjarne.
+Learning C++ by following the book from Bjarne.
